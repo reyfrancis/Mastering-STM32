@@ -1,6 +1,5 @@
 # Mastering-STM32
 
-![Maintenance](https://img.shields.io/maintenance/no/2020.svg)
 [![Dependencies](https://img.shields.io/david/expressjs/express.svg)
 ![c++11](https://img.shields.io/badge/C%2B%2B-11-brightgreen.svg)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
